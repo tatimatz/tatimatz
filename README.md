@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatimatz
 - 👀 I’m interested in web development, specially front-end.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React.js
+- 🌱 My stack : HTML, CSS, JavaScript, Node.js, React.js, Express
 - 💞️ I’m looking to collaborate on open sources projects
 - 📫 How to reach me : tatimatz@gmail.com / https://www.linkedin.com/in/tatiana-matzenbacher/
 
